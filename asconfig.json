@@ -1,0 +1,17 @@
+{
+  "entries": ["./src-assembly/index.ts"],
+  "options": {
+    "bindings": "esm",
+    "outFile": "./src-assembly/bin/module.wasm"
+  },
+  "targets": {
+    "release": {
+      "optimize": true
+      
+    },
+    "debug": {
+      "debug": true,
+      "sourceMap": true
+    }
+  }
+}
