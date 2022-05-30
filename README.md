@@ -1,5 +1,5 @@
 # vitejs-react-wasm-edge
-## starter repo with : vite, react, webassembly, cloudflare workers
+## starter repo with : vite, react, typescript, webassembly, cloudflare workers
 
 
 
