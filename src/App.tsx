@@ -7,7 +7,7 @@ export default function App() {
     <>
       <div className="App">
         <header className="App-header">
-          <h1 className="text-7xl">Radu's portofolio website, WIP</h1>
+          <h1 className="text-7xl">Radu's portfolio website, WIP</h1>
           <h3>built with 🫀</h3>
           <h3>using Vite, React &amp; Cloudflare workers</h3>
           <h3 className="text-yellow-200 mt-8 font-semibold">Bonus: {WASMLib.getContent()}</h3>
